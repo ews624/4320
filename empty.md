@@ -1,7 +1,7 @@
-#mylist
+# Mylist
 Project for dale
 
 Goals:
 
-#Learn
-#have fune
+# Learn
+# have fune
