@@ -4,4 +4,4 @@ Project for dale
 Goals:
 
 # Learn
-# have fune
+# have fun
